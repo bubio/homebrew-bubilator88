@@ -2,8 +2,7 @@ cask "bubilator88" do
   version "1.3.0"
   sha256 "0a935bc8b5135ce8046c289d408348ab4e24e05abf8ea26f7a6f42043eb61f1c"
 
-  url "https://github.com/bubio/Bubilator88/releases/download/v#{version}/Bubilator88-v#{version}.dmg",
-      verified: "github.com/bubio/Bubilator88/"
+  url "https://github.com/bubio/Bubilator88/releases/download/v#{version}/Bubilator88-v#{version}.dmg"
   name "Bubilator88"
   desc "Behavioral emulator for the NEC PC-8801-FA"
   homepage "https://github.com/bubio/Bubilator88"
