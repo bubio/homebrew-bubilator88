@@ -1,6 +1,6 @@
 cask "bubilator88" do
-  version "1.5.0"
-  sha256 "afbe3ecfc7d670373a3d3f0cbbfc9a380c9c4e22df23f9309705f2c5d6bacea9"
+  version "1.6.0"
+  sha256 "25329a019b71bbf96cca78898b4665e6980d80d14cf7e42a31b3fd4e004dd98c"
 
   url "https://github.com/bubio/Bubilator88/releases/download/v#{version}/Bubilator88-v#{version}.dmg"
   name "Bubilator88"
